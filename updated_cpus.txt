@@ -1,0 +1,13 @@
+AMD 15 $$$ 13
+ZII4 $$$ 0
+ZIi4 $$$ 14
+Zblabla $$$ 19
+Zii4 $$$ 0
+cpu Zi7 $$$ 10
+zII4 $$$ 14
+zIi3 $$$ 132
+zIi4 $$$ 14
+ziI2 $$$ 14
+zii4 $$$ 29
+zii8 $$$ 14
+zii9promax $$$ 1234

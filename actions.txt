@@ -1,0 +1,38 @@
+Initialize
+Fatal_malfunction $$$ cpu Zi7 $$$ 130
+Fatal_malfunction $$$ cpu Zi5 $$$ 15
+Returned_from_customer $$$ cpu Zi7 $$$ 10
+Rename $$$ bloblo12zZzZ $$$ Zbloblo
+Returned_from_customer $$$ Zblabla $$$ 19
+Rename $$$ bloblo12zZzZ $$$ CPUPRO
+Rename $$$ CPUPRO $$$ zii9
+Returned_from_customer $$$ zii8 $$$ 14
+Returned_from_customer $$$ ziI2 $$$ 14
+Returned_from_customer $$$ zIi3 $$$ 132
+Rename $$$ AMD 14 $$$ AMD 16
+Rename $$$ AMD 14 $$$ AMD 15
+Returned_from_customer $$$ AMD 15 $$$ 13
+Fatal_malfunction $$$ cpu XxXx $$$ 15
+Fatal_malfunction $$$ AmD 14 $$$ 15
+Rename $$$ xxxx $$$ Zbloblo
+Rename $$$ ddddddZ $$$ Zbloblo
+Rename $$$ wwww $$$ Zbloblo
+Rename $$$ ert $$$ Zbloblo
+Returned_from_customer $$$ zii4 $$$ 14
+Returned_from_customer $$$ Zii4 $$$ 14
+Returned_from_customer $$$ ZIi4 $$$ 14
+Returned_from_customer $$$ ZII4 $$$ 14
+Returned_from_customer $$$ zIi4 $$$ 14
+Returned_from_customer $$$ zII4 $$$ 14
+Returned_from_customer $$$ zii4 $$$ 15
+Fatal_malfunction $$$ Doesnt exist $$$ 15
+Fatal_malfunction $$$ Maybe exists $$$ 15
+Fatal_malfunction $$$ Zii4 $$$ 1500
+Fatal_malfunction $$$ Zii4 exists $$$ 155
+Fatal_malfunction $$$ ZII4 $$$ 123
+Rename $$$ bloblo12zZzZ $$$ CPUPRO
+Rename $$$ zii9 $$$ zii9promaxx
+Returned_from_customer $$$ zii9promax $$$ 1234
+Rename $$$ AMnD 14 $$$ AMD 16
+Rename $$$ mandm 14 $$$ AMD 15
+Finalize
