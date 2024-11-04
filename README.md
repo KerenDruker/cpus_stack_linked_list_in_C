@@ -21,8 +21,8 @@ This C program manages an inventory system for CPUs, allowing for operations lik
 Compile and run the program, passing the file paths as arguments for the CPU inventory, actions, and output files:
 
 ```bash
-gcc -o cpu_inventory cpu_inventory.c
-./cpu_inventory cpu_inventory.txt actions.txt updated_cpus.txt
+gcc -o cpus cpus.c
+./cpus cpus.txt actions.txt updated_cpus.txt
 ```
 
 ## Functions
