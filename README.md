@@ -1,7 +1,3 @@
-Certainly! Here’s a GitHub README template for the code you shared:
-
----
-
 # CPU Inventory Management System
 
 This C program manages an inventory system for CPUs, allowing for operations like adding, renaming, and sorting CPU types in a linked list. The program reads an initial list of CPUs from a file, processes commands from an actions file, and updates the list accordingly. The final sorted list is saved to an output file.
