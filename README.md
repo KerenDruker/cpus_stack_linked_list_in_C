@@ -37,7 +37,7 @@ gcc -o cpus cpus.c
 
 ## Example Files
 
-- **cpu_inventory.txt**: Example of a CPU inventory file.
+- **cpus.txt**: Example of a CPU inventory file.
   ```
   Intel_i7$$$ 5
   AMD_Ryzen5$$$ 3
